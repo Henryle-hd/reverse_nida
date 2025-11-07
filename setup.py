@@ -11,7 +11,7 @@ setup(
     description="A Python package that attempts to reverse engineer how NIDA (National Identification Authority) numbers are generated and extract basic information from National Identification Numbers (NIN) without using the official NIDA API.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Henryle-hd/reverse_nida",
+    url="https://github.com/Henryle-hd/r_nida",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -22,6 +22,6 @@ setup(
     install_requires=[""],
     include_package_data=True,
     # package_data={
-    #     "reverse_nida": ["requirements.txt"],
+    #     "r_nida": ["requirements.txt"],
     # }
 )

@@ -18,7 +18,7 @@ pip install reverse-nida
 
 ### Simple Usage (Recommended)
 ```python
-from reverse_nida import get_basic_info
+from r_nida import get_basic_info
 
 # Analyze a NIDA number (supports both dashed and compact formats)
 nin_dashed = "xxxxxxxx-xxxxx-xxxxx-xx"
