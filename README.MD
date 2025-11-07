@@ -49,22 +49,3 @@ info = service.get_basic_info("xxxxxxxx-xxxxx-xxxxx-xx", debug=True)
 git clone https://github.com/Henryle-hd/reverse-nida.git
 cd reverse-nida
 ```
-
-### Project Structure
-```
-reverse_nida/
-├── reverse_nida/
-│   ├── __init__.py
-│   ├── location_files_code/
-│   └── requirements.txt
-├── .gitignore
-├── setup.py
-└── README.md
-```
-
-## 🤝 Contributing
-We welcome contributions! If you can improve the reverse engineering algorithms or add new features:
-
----
-
-**Remember**: This is a reverse engineering project for educational purposes. Always use official channels for formal verification needs.

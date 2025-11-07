@@ -4,3 +4,7 @@ build/
 dist/
 test/
 NectaPy.egg-info/
+.pypirc
+setup.py
+pyproject.toml
+MANIFEST.in
