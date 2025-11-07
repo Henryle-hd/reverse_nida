@@ -41,7 +41,7 @@ print(info)
 # }
 
 # Get full information with debug
-info = service.get_basic_info("xxxxxxxx-xxxxx-xxxxx-xx", debug=True)
+info = get_basic_info("xxxxxxxx-xxxxx-xxxxx-xx", debug=True)
 ```
 
 ### Setup Development Environment
