@@ -11,7 +11,7 @@ This project is for educational and research purposes only. It attempts to under
 
 ### From PyPI
 ```bash
-pip install reverse-nida
+pip install r-nida
 ```
 
 ## 📖 Usage
@@ -47,5 +47,5 @@ info = get_basic_info("xxxxxxxx-xxxxx-xxxxx-xx", debug=True)
 ### Setup Development Environment
 ```bash
 git clone https://github.com/Henryle-hd/reverse-nida.git
-cd reverse-nida
+cd r-nida
 ```
