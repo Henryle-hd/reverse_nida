@@ -16,7 +16,6 @@ pip install r-nida
 
 ## 📖 Usage
 
-### Simple Usage (Recommended)
 ```python
 from r_nida import get_basic_info
 
